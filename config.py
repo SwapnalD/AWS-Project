@@ -1,0 +1,6 @@
+customhost = "employee.co2cvpjp8vwb.us-east-1.rds.amazonaws.com"
+customuser = "swapnal"
+custompass = "babysweetberrylove"
+customdb = "employee"
+custombucket = "addemployee-project"
+customregion = "us-east-1"
